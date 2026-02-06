@@ -1,6 +1,9 @@
 # Zed-HexPeek
 Zed-HexPeek, an extension for [Zed](https://zed.dev) editor to peek various forms of a number literal.
 
+![zed-hexpeek](https://github.com/user-attachments/assets/e602ea53-487e-4bd7-9cb5-4d78b748f53b)
+
+
 ## Setup
 1. Clone the repository
 ```sh
