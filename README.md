@@ -5,12 +5,8 @@ Zed-HexPeek, an extension for [Zed](https://zed.dev) editor to peek various form
 
 
 ## Setup
-1. Clone the repository
-```sh
-git clone https://github.com/A-23187/zed-hexpeek.git
-```
-2. Install this extension via Install Dev Extension in Zed
-3. Enable the zed-hexpeek language server by adding the following to your `.zed/settings.json` (or `~/.config/zed/settings.json` for all workspaces)
+1. Install [the extension](https://zed.dev/extensions/hexpeek) from the Zed extension marketplace
+2. Enable the zed-hexpeek language server by adding the following to your `.zed/settings.json` (or `~/.config/zed/settings.json` for all workspaces)
 ```json
 {
   "languages": {
